@@ -1,3 +1,7 @@
+
+WeatherApp
+
+
 WeatherApp is an application that allows users to check the weather by entering the name of the city. 
 With this app, users can access the following weather information:
 
